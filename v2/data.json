@@ -1,0 +1,19 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "杜老师说",
+      "url": "https://dusays.com/",
+      "avatar": "https://cdn.dusays.com/avatar.png",
+      "screenshot": "https://cdn.dusays.com/avatar.png",
+      "description": "杜老师说的博客"
+    },
+    {
+      "title": "邢平cn",
+      "url": "https://xingpingcn.github.io",
+      "avatar": "https://jsd.cdn.zzko.cn/gh/xingpingcn/picx-images-hosting@master/20230419/%E8%87%AD%E5%8D%B7%E5%AE%9D.74vk4cdjex40.jpg",
+      "screenshot": "https://jsd.onmicrosoft.cn/npm/p-hosting-for-xp@1.0.25/20230508/Snipaste_2023-05-08_00-59-44.2lzfpy52dcu0.webp",
+      "description": "null description"
+    }
+  ]
+}
